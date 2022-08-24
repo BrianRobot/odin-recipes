@@ -1,0 +1,1 @@
+Will used HTML only to create a basic website to store and share recipes. 
